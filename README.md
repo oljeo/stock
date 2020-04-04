@@ -1,0 +1,2 @@
+# stock
+Simpe stock management
